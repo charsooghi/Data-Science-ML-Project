@@ -16,5 +16,5 @@ It is including:
 ## Todo List:
 
 #### in House price prediction
-[ ] Add some notes on project here.  
+[ ] Add some notes on project at the top of its jupyter notebook.  
 [ ] Add some notes about values of estimated coefficients.
