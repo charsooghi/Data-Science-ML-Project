@@ -17,6 +17,12 @@ __Fair1978:__ [Fair, Ray. 1978. “A Theory of Extramarital Affairs,” Journal 
 It is important to note that this data comes from a self-reported survey, which can have many issues as far as the accuracy of the data.
 
 ### Iris Flower Classification
+In this micro project the different species of iris flower would be classified. The Iris flower data set is a multivariate data set introduced by the British biologist Ronald Fisher in his 1936 paper [Fisher1936], which is also known as or Fisher's Iris data set.
+
+The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters.
+
+__Fisher1936:__ [Fisher, Ronald A. "The use of multiple measurements in taxonomic problems." Annals of eugenics 7.2 (1936): 179-188.](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-1809.1936.tb02137.x)
+
 
 ## Titanic: Apply Machine Learning to Predict Survaival
 This is my notes on Titanic challenge in Kaggle site (www.kaggle.com/c/titanic).  
